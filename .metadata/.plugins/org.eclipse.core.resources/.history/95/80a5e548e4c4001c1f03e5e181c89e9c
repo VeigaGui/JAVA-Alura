@@ -1,0 +1,14 @@
+
+public class teste {
+	
+		public static void main(String[] args) {
+				int guilherme = 1;
+				int ana =1;
+				
+				if(guilherme == ana) {
+					System.out.println("vocês dois formam um belo casal");
+				} else {
+					System.out.println("ana para de enrolar ele");
+				}
+		}
+}
